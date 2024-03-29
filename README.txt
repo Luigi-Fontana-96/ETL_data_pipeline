@@ -1,6 +1,6 @@
 Guida allo start-up dell'applicativo:
 
-Indirizzo prometheus: http://15.160.61.227:29090
+Indirizzo prometheus: 
 
 nota:
 - per sistemi windows based eliminare sudo dai comandi;
